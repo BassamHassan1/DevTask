@@ -1,0 +1,415 @@
+C:\Users\DELL\source\repos\DevTask\DevTask\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\DELL\source\repos\DevTask\DevTask\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\DELL\source\repos\DevTask\DevTask\bin\Debug\netcoreapp3.1\DevTask.exe
+C:\Users\DELL\source\repos\DevTask\DevTask\bin\Debug\netcoreapp3.1\DevTask.deps.json
+C:\Users\DELL\source\repos\DevTask\DevTask\bin\Debug\netcoreapp3.1\DevTask.runtimeconfig.json
+C:\Users\DELL\source\repos\DevTask\DevTask\bin\Debug\netcoreapp3.1\DevTask.runtimeconfig.dev.json
+C:\Users\DELL\source\repos\DevTask\DevTask\bin\Debug\netcoreapp3.1\DevTask.dll
+C:\Users\DELL\source\repos\DevTask\DevTask\bin\Debug\netcoreapp3.1\DevTask.pdb
+C:\Users\DELL\source\repos\DevTask\DevTask\bin\Debug\netcoreapp3.1\DevTask.Views.dll
+C:\Users\DELL\source\repos\DevTask\DevTask\bin\Debug\netcoreapp3.1\DevTask.Views.pdb
+C:\Users\DELL\source\repos\DevTask\DevTask\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\DELL\source\repos\DevTask\DevTask\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\DELL\source\repos\DevTask\DevTask\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\DELL\source\repos\DevTask\DevTask\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\DELL\source\repos\DevTask\DevTask\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\DELL\source\repos\DevTask\DevTask\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\DELL\source\repos\DevTask\DevTask\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\DELL\source\repos\DevTask\DevTask\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\DELL\source\repos\DevTask\DevTask\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\DELL\source\repos\DevTask\DevTask\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\DELL\source\repos\DevTask\DevTask\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\DELL\source\repos\DevTask\DevTask\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\DELL\source\repos\DevTask\DevTask\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\DELL\source\repos\DevTask\DevTask\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\DELL\source\repos\DevTask\DevTask\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\DELL\source\repos\DevTask\DevTask\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\DELL\source\repos\DevTask\DevTask\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\DELL\source\repos\DevTask\DevTask\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\DELL\source\repos\DevTask\DevTask\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\DELL\source\repos\DevTask\DevTask\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\DELL\source\repos\DevTask\DevTask\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\DELL\source\repos\DevTask\DevTask\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\DELL\source\repos\DevTask\DevTask\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\DELL\source\repos\DevTask\DevTask\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\DELL\source\repos\DevTask\DevTask\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\DELL\source\repos\DevTask\DevTask\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\DELL\source\repos\DevTask\DevTask\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\DELL\source\repos\DevTask\DevTask\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\DELL\source\repos\DevTask\DevTask\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\DELL\source\repos\DevTask\DevTask\obj\Debug\netcoreapp3.1\DevTask.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\DevTask\DevTask\obj\Debug\netcoreapp3.1\DevTask.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\DevTask\DevTask\obj\Debug\netcoreapp3.1\DevTask.AssemblyInfo.cs
+C:\Users\DELL\source\repos\DevTask\DevTask\obj\Debug\netcoreapp3.1\DevTask.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\DevTask\DevTask\obj\Debug\netcoreapp3.1\DevTask.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DELL\source\repos\DevTask\DevTask\obj\Debug\netcoreapp3.1\DevTask.RazorAssemblyInfo.cache
+C:\Users\DELL\source\repos\DevTask\DevTask\obj\Debug\netcoreapp3.1\DevTask.RazorAssemblyInfo.cs
+C:\Users\DELL\source\repos\DevTask\DevTask\obj\Debug\netcoreapp3.1\staticwebassets\DevTask.StaticWebAssets.Manifest.cache
+C:\Users\DELL\source\repos\DevTask\DevTask\obj\Debug\netcoreapp3.1\staticwebassets\DevTask.StaticWebAssets.xml
+C:\Users\DELL\source\repos\DevTask\DevTask\obj\Debug\netcoreapp3.1\scopedcss\bundle\DevTask.styles.css
+C:\Users\DELL\source\repos\DevTask\DevTask\obj\Debug\netcoreapp3.1\DevTask.TagHelpers.input.cache
+C:\Users\DELL\source\repos\DevTask\DevTask\obj\Debug\netcoreapp3.1\DevTask.TagHelpers.output.cache
+C:\Users\DELL\source\repos\DevTask\DevTask\obj\Debug\netcoreapp3.1\DevTask.RazorCoreGenerate.cache
+C:\Users\DELL\source\repos\DevTask\DevTask\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\DELL\source\repos\DevTask\DevTask\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\DELL\source\repos\DevTask\DevTask\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\DELL\source\repos\DevTask\DevTask\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\DELL\source\repos\DevTask\DevTask\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\DELL\source\repos\DevTask\DevTask\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\DELL\source\repos\DevTask\DevTask\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\DELL\source\repos\DevTask\DevTask\obj\Debug\netcoreapp3.1\DevTask.RazorTargetAssemblyInfo.cache
+C:\Users\DELL\source\repos\DevTask\DevTask\obj\Debug\netcoreapp3.1\DevTask.RazorTargetAssemblyInfo.cs
+C:\Users\DELL\source\repos\DevTask\DevTask\obj\Debug\netcoreapp3.1\DevTask.Views.pdb
+C:\Users\DELL\source\repos\DevTask\DevTask\obj\Debug\netcoreapp3.1\DevTask.csproj.CopyComplete
+C:\Users\DELL\source\repos\DevTask\DevTask\obj\Debug\netcoreapp3.1\DevTask.dll
+C:\Users\DELL\source\repos\DevTask\DevTask\obj\Debug\netcoreapp3.1\DevTask.pdb
+C:\Users\DELL\source\repos\DevTask\DevTask\obj\Debug\netcoreapp3.1\DevTask.genruntimeconfig.cache
+C:\Users\DELL\source\repos\DevTask\DevTask\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+C:\Users\DELL\source\repos\DevTask\DevTask\bin\Debug\netcoreapp3.1\EntityFramework.dll
+C:\Users\DELL\source\repos\DevTask\DevTask\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+C:\Users\DELL\source\repos\DevTask\DevTask\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\DELL\source\repos\DevTask\DevTask\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\DELL\source\repos\DevTask\DevTask\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\DELL\source\repos\DevTask\DevTask\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\DELL\source\repos\DevTask\DevTask\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\DELL\source\repos\DevTask\DevTask\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\DELL\source\repos\DevTask\DevTask\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\DELL\source\repos\DevTask\DevTask\obj\Debug\netcoreapp3.1\Razor\Views\Home\Create.cshtml.g.cs
+C:\Users\DELL\source\repos\DevTask\DevTask\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\DELL\source\repos\DevTask\DevTask\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\DELL\source\repos\DevTask\DevTask\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\DELL\source\repos\DevTask\DevTask\bin\Debug\netcoreapp3.1\libman.json
+C:\Users\DELL\source\repos\DevTask\DevTask\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\DELL\source\repos\DevTask\DevTask\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\DELL\source\repos\DevTask\DevTask\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\DELL\source\repos\DevTask\DevTask\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\DELL\source\repos\DevTask\DevTask\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DELL\source\repos\DevTask\DevTask\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\DELL\source\repos\DevTask\DevTask\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DELL\source\repos\DevTask\DevTask\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\DELL\source\repos\DevTask\DevTask\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DELL\source\repos\DevTask\DevTask\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\DELL\source\repos\DevTask\DevTask\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DELL\source\repos\DevTask\DevTask\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\DELL\source\repos\DevTask\DevTask\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\DELL\source\repos\DevTask\DevTask\obj\Debug\netcoreapp3.1\Razor\Views\Home\Edit.cshtml.g.cs
+C:\Users\DELL\source\repos\DevTask\DevTask\obj\Debug\netcoreapp3.1\Razor\Views\Home\Delete.cshtml.g.cs
+C:\Users\DELL\source\repos\DevTask\DevTask\obj\Debug\netcoreapp3.1\Razor\Views\Home\Details.cshtml.g.cs
+C:\Users\DELL\source\repos\DevTask\DevTask\obj\Debug\netcoreapp3.1\Razor\Views\Home\CustomerList.cshtml.g.cs
+C:\Users\DELL\source\repos\DevTask\DevTask\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\DELL\source\repos\DevTask\DevTask\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\DELL\source\repos\DevTask\DevTask\bin\Debug\netcoreapp3.1\Microsoft.ReportViewer.Common.dll
+C:\Users\DELL\source\repos\DevTask\DevTask\bin\Debug\netcoreapp3.1\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\DELL\source\repos\DevTask\DevTask\bin\Debug\netcoreapp3.1\Microsoft.ReportViewer.NETCore.dll
+C:\Users\DELL\source\repos\DevTask\DevTask\bin\Debug\netcoreapp3.1\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\DELL\source\repos\DevTask\DevTask\bin\Debug\netcoreapp3.1\System.Data.OleDb.dll
+C:\Users\DELL\source\repos\DevTask\DevTask\bin\Debug\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+C:\Users\DELL\source\repos\DevTask\DevTask\bin\Debug\netcoreapp3.1\System.IO.Packaging.dll
+C:\Users\DELL\source\repos\DevTask\DevTask\bin\Debug\netcoreapp3.1\System.Resources.Extensions.dll
+C:\Users\DELL\source\repos\DevTask\DevTask\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELL\source\repos\DevTask\DevTask\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELL\source\repos\DevTask\DevTask\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELL\source\repos\DevTask\DevTask\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELL\source\repos\DevTask\DevTask\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELL\source\repos\DevTask\DevTask\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELL\source\repos\DevTask\DevTask\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELL\source\repos\DevTask\DevTask\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELL\source\repos\DevTask\DevTask\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELL\source\repos\DevTask\DevTask\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELL\source\repos\DevTask\DevTask\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELL\source\repos\DevTask\DevTask\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELL\source\repos\DevTask\DevTask\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELL\source\repos\DevTask\DevTask\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\DELL\source\repos\DevTask\DevTask\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\DELL\source\repos\DevTask\DevTask\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\DELL\source\repos\DevTask\DevTask\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\DELL\source\repos\DevTask\DevTask\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\DELL\source\repos\DevTask\DevTask\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\DELL\source\repos\DevTask\DevTask\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\DELL\source\repos\DevTask\DevTask\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\DELL\source\repos\DevTask\DevTask\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\DELL\source\repos\DevTask\DevTask\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\DELL\source\repos\DevTask\DevTask\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\DELL\source\repos\DevTask\DevTask\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\DELL\source\repos\DevTask\DevTask\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\DELL\source\repos\DevTask\DevTask\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Data.OleDb.dll
+C:\Users\DELL\source\repos\DevTask\DevTask\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\DELL\source\repos\DevTask\DevTask\bin\Debug\netcoreapp3.1\DinkToPdf.dll
+C:\Users\DELL\source\repos\DevTask\DevTask\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\DELL\source\repos\DevTask\DevTask\bin\Debug\netcoreapp3.1\libwkhtmltox.dll
+E:\DevTask\DevTask\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\DevTask\DevTask\bin\Debug\netcoreapp3.1\appsettings.json
+E:\DevTask\DevTask\bin\Debug\netcoreapp3.1\libman.json
+E:\DevTask\DevTask\bin\Debug\netcoreapp3.1\libwkhtmltox.dll
+E:\DevTask\DevTask\bin\Debug\netcoreapp3.1\DevTask.exe
+E:\DevTask\DevTask\bin\Debug\netcoreapp3.1\DevTask.deps.json
+E:\DevTask\DevTask\bin\Debug\netcoreapp3.1\DevTask.runtimeconfig.json
+E:\DevTask\DevTask\bin\Debug\netcoreapp3.1\DevTask.runtimeconfig.dev.json
+E:\DevTask\DevTask\bin\Debug\netcoreapp3.1\DevTask.dll
+E:\DevTask\DevTask\bin\Debug\netcoreapp3.1\DevTask.pdb
+E:\DevTask\DevTask\bin\Debug\netcoreapp3.1\DevTask.Views.dll
+E:\DevTask\DevTask\bin\Debug\netcoreapp3.1\DevTask.Views.pdb
+E:\DevTask\DevTask\bin\Debug\netcoreapp3.1\DinkToPdf.dll
+E:\DevTask\DevTask\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+E:\DevTask\DevTask\bin\Debug\netcoreapp3.1\EntityFramework.dll
+E:\DevTask\DevTask\bin\Debug\netcoreapp3.1\Humanizer.dll
+E:\DevTask\DevTask\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\DevTask\DevTask\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\DevTask\DevTask\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\DevTask\DevTask\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\DevTask\DevTask\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\DevTask\DevTask\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\DevTask\DevTask\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\DevTask\DevTask\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\DevTask\DevTask\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\DevTask\DevTask\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\DevTask\DevTask\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\DevTask\DevTask\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\DevTask\DevTask\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\DevTask\DevTask\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\DevTask\DevTask\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\DevTask\DevTask\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\DevTask\DevTask\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\DevTask\DevTask\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\DevTask\DevTask\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\DevTask\DevTask\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\DevTask\DevTask\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\DevTask\DevTask\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\DevTask\DevTask\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\DevTask\DevTask\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\DevTask\DevTask\bin\Debug\netcoreapp3.1\Microsoft.ReportViewer.Common.dll
+E:\DevTask\DevTask\bin\Debug\netcoreapp3.1\Microsoft.ReportViewer.DataVisualization.dll
+E:\DevTask\DevTask\bin\Debug\netcoreapp3.1\Microsoft.ReportViewer.NETCore.dll
+E:\DevTask\DevTask\bin\Debug\netcoreapp3.1\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\DevTask\DevTask\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+E:\DevTask\DevTask\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\DevTask\DevTask\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+E:\DevTask\DevTask\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\DevTask\DevTask\bin\Debug\netcoreapp3.1\System.Data.OleDb.dll
+E:\DevTask\DevTask\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+E:\DevTask\DevTask\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\DevTask\DevTask\bin\Debug\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+E:\DevTask\DevTask\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\DevTask\DevTask\bin\Debug\netcoreapp3.1\System.IO.Packaging.dll
+E:\DevTask\DevTask\bin\Debug\netcoreapp3.1\System.Resources.Extensions.dll
+E:\DevTask\DevTask\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\DevTask\DevTask\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\DevTask\DevTask\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\DevTask\DevTask\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\DevTask\DevTask\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\DevTask\DevTask\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\DevTask\DevTask\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\DevTask\DevTask\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\DevTask\DevTask\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\DevTask\DevTask\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\DevTask\DevTask\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\DevTask\DevTask\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\DevTask\DevTask\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\DevTask\DevTask\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\DevTask\DevTask\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\DevTask\DevTask\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\DevTask\DevTask\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\DevTask\DevTask\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\DevTask\DevTask\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\DevTask\DevTask\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\DevTask\DevTask\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\DevTask\DevTask\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\DevTask\DevTask\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\DevTask\DevTask\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\DevTask\DevTask\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\DevTask\DevTask\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\DevTask\DevTask\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\DevTask\DevTask\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\DevTask\DevTask\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\DevTask\DevTask\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\DevTask\DevTask\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\DevTask\DevTask\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\DevTask\DevTask\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\DevTask\DevTask\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\DevTask\DevTask\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\DevTask\DevTask\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\DevTask\DevTask\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\DevTask\DevTask\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\DevTask\DevTask\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\DevTask\DevTask\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\DevTask\DevTask\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\DevTask\DevTask\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Data.OleDb.dll
+E:\DevTask\DevTask\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\DevTask\DevTask\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\DevTask\DevTask\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+E:\DevTask\DevTask\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\DevTask\DevTask\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\DevTask\DevTask\obj\Debug\netcoreapp3.1\DevTask.csproj.AssemblyReference.cache
+E:\DevTask\DevTask\obj\Debug\netcoreapp3.1\DevTask.AssemblyInfoInputs.cache
+E:\DevTask\DevTask\obj\Debug\netcoreapp3.1\DevTask.AssemblyInfo.cs
+E:\DevTask\DevTask\obj\Debug\netcoreapp3.1\DevTask.csproj.CoreCompileInputs.cache
+E:\DevTask\DevTask\obj\Debug\netcoreapp3.1\DevTask.MvcApplicationPartsAssemblyInfo.cache
+E:\DevTask\DevTask\obj\Debug\netcoreapp3.1\DevTask.RazorAssemblyInfo.cache
+E:\DevTask\DevTask\obj\Debug\netcoreapp3.1\DevTask.RazorAssemblyInfo.cs
+E:\DevTask\DevTask\obj\Debug\netcoreapp3.1\staticwebassets\DevTask.StaticWebAssets.Manifest.cache
+E:\DevTask\DevTask\obj\Debug\netcoreapp3.1\staticwebassets\DevTask.StaticWebAssets.xml
+E:\DevTask\DevTask\obj\Debug\netcoreapp3.1\scopedcss\bundle\DevTask.styles.css
+E:\DevTask\DevTask\obj\Debug\netcoreapp3.1\DevTask.TagHelpers.input.cache
+E:\DevTask\DevTask\obj\Debug\netcoreapp3.1\DevTask.TagHelpers.output.cache
+E:\DevTask\DevTask\obj\Debug\netcoreapp3.1\DevTask.RazorCoreGenerate.cache
+E:\DevTask\DevTask\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+E:\DevTask\DevTask\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+E:\DevTask\DevTask\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+E:\DevTask\DevTask\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+E:\DevTask\DevTask\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\DevTask\DevTask\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+E:\DevTask\DevTask\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+E:\DevTask\DevTask\obj\Debug\netcoreapp3.1\Razor\Views\Home\Create.cshtml.g.cs
+E:\DevTask\DevTask\obj\Debug\netcoreapp3.1\Razor\Views\Home\Delete.cshtml.g.cs
+E:\DevTask\DevTask\obj\Debug\netcoreapp3.1\Razor\Views\Home\Details.cshtml.g.cs
+E:\DevTask\DevTask\obj\Debug\netcoreapp3.1\Razor\Views\Home\Edit.cshtml.g.cs
+E:\DevTask\DevTask\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\DevTask\DevTask\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\DevTask\DevTask\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\DevTask\DevTask\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\DevTask\DevTask\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\DevTask\DevTask\obj\Debug\netcoreapp3.1\DevTask.RazorTargetAssemblyInfo.cache
+E:\DevTask\DevTask\obj\Debug\netcoreapp3.1\DevTask.RazorTargetAssemblyInfo.cs
+E:\DevTask\DevTask\obj\Debug\netcoreapp3.1\DevTask.Views.pdb
+E:\DevTask\DevTask\obj\Debug\netcoreapp3.1\DevTask.csproj.CopyComplete
+E:\DevTask\DevTask\obj\Debug\netcoreapp3.1\DevTask.dll
+E:\DevTask\DevTask\obj\Debug\netcoreapp3.1\DevTask.pdb
+E:\DevTask\DevTask\obj\Debug\netcoreapp3.1\DevTask.genruntimeconfig.cache
+E:\Developer Assignment\Developer Task\DevTask\DevTask\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Developer Assignment\Developer Task\DevTask\DevTask\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Developer Assignment\Developer Task\DevTask\DevTask\bin\Debug\netcoreapp3.1\libman.json
+E:\Developer Assignment\Developer Task\DevTask\DevTask\bin\Debug\netcoreapp3.1\libwkhtmltox.dll
+E:\Developer Assignment\Developer Task\DevTask\DevTask\bin\Debug\netcoreapp3.1\DevTask.exe
+E:\Developer Assignment\Developer Task\DevTask\DevTask\bin\Debug\netcoreapp3.1\DevTask.deps.json
+E:\Developer Assignment\Developer Task\DevTask\DevTask\bin\Debug\netcoreapp3.1\DevTask.runtimeconfig.json
+E:\Developer Assignment\Developer Task\DevTask\DevTask\bin\Debug\netcoreapp3.1\DevTask.runtimeconfig.dev.json
+E:\Developer Assignment\Developer Task\DevTask\DevTask\bin\Debug\netcoreapp3.1\DevTask.dll
+E:\Developer Assignment\Developer Task\DevTask\DevTask\bin\Debug\netcoreapp3.1\DevTask.pdb
+E:\Developer Assignment\Developer Task\DevTask\DevTask\bin\Debug\netcoreapp3.1\DevTask.Views.dll
+E:\Developer Assignment\Developer Task\DevTask\DevTask\bin\Debug\netcoreapp3.1\DevTask.Views.pdb
+E:\Developer Assignment\Developer Task\DevTask\DevTask\bin\Debug\netcoreapp3.1\DinkToPdf.dll
+E:\Developer Assignment\Developer Task\DevTask\DevTask\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+E:\Developer Assignment\Developer Task\DevTask\DevTask\bin\Debug\netcoreapp3.1\EntityFramework.dll
+E:\Developer Assignment\Developer Task\DevTask\DevTask\bin\Debug\netcoreapp3.1\Humanizer.dll
+E:\Developer Assignment\Developer Task\DevTask\DevTask\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\Developer Assignment\Developer Task\DevTask\DevTask\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Developer Assignment\Developer Task\DevTask\DevTask\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Developer Assignment\Developer Task\DevTask\DevTask\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\Developer Assignment\Developer Task\DevTask\DevTask\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Developer Assignment\Developer Task\DevTask\DevTask\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\Developer Assignment\Developer Task\DevTask\DevTask\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Developer Assignment\Developer Task\DevTask\DevTask\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Developer Assignment\Developer Task\DevTask\DevTask\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Developer Assignment\Developer Task\DevTask\DevTask\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\Developer Assignment\Developer Task\DevTask\DevTask\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Developer Assignment\Developer Task\DevTask\DevTask\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\Developer Assignment\Developer Task\DevTask\DevTask\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Developer Assignment\Developer Task\DevTask\DevTask\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\Developer Assignment\Developer Task\DevTask\DevTask\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Developer Assignment\Developer Task\DevTask\DevTask\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\Developer Assignment\Developer Task\DevTask\DevTask\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\Developer Assignment\Developer Task\DevTask\DevTask\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\Developer Assignment\Developer Task\DevTask\DevTask\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Developer Assignment\Developer Task\DevTask\DevTask\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\Developer Assignment\Developer Task\DevTask\DevTask\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\Developer Assignment\Developer Task\DevTask\DevTask\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Developer Assignment\Developer Task\DevTask\DevTask\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\Developer Assignment\Developer Task\DevTask\DevTask\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Developer Assignment\Developer Task\DevTask\DevTask\bin\Debug\netcoreapp3.1\Microsoft.ReportViewer.Common.dll
+E:\Developer Assignment\Developer Task\DevTask\DevTask\bin\Debug\netcoreapp3.1\Microsoft.ReportViewer.DataVisualization.dll
+E:\Developer Assignment\Developer Task\DevTask\DevTask\bin\Debug\netcoreapp3.1\Microsoft.ReportViewer.NETCore.dll
+E:\Developer Assignment\Developer Task\DevTask\DevTask\bin\Debug\netcoreapp3.1\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\Developer Assignment\Developer Task\DevTask\DevTask\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+E:\Developer Assignment\Developer Task\DevTask\DevTask\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\Developer Assignment\Developer Task\DevTask\DevTask\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+E:\Developer Assignment\Developer Task\DevTask\DevTask\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\Developer Assignment\Developer Task\DevTask\DevTask\bin\Debug\netcoreapp3.1\System.Data.OleDb.dll
+E:\Developer Assignment\Developer Task\DevTask\DevTask\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+E:\Developer Assignment\Developer Task\DevTask\DevTask\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\Developer Assignment\Developer Task\DevTask\DevTask\bin\Debug\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+E:\Developer Assignment\Developer Task\DevTask\DevTask\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\Developer Assignment\Developer Task\DevTask\DevTask\bin\Debug\netcoreapp3.1\System.IO.Packaging.dll
+E:\Developer Assignment\Developer Task\DevTask\DevTask\bin\Debug\netcoreapp3.1\System.Resources.Extensions.dll
+E:\Developer Assignment\Developer Task\DevTask\DevTask\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\Developer Assignment\Developer Task\DevTask\DevTask\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\Developer Assignment\Developer Task\DevTask\DevTask\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Developer Assignment\Developer Task\DevTask\DevTask\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\Developer Assignment\Developer Task\DevTask\DevTask\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\Developer Assignment\Developer Task\DevTask\DevTask\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Developer Assignment\Developer Task\DevTask\DevTask\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\Developer Assignment\Developer Task\DevTask\DevTask\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Developer Assignment\Developer Task\DevTask\DevTask\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Developer Assignment\Developer Task\DevTask\DevTask\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Developer Assignment\Developer Task\DevTask\DevTask\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Developer Assignment\Developer Task\DevTask\DevTask\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Developer Assignment\Developer Task\DevTask\DevTask\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Developer Assignment\Developer Task\DevTask\DevTask\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Developer Assignment\Developer Task\DevTask\DevTask\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Developer Assignment\Developer Task\DevTask\DevTask\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Developer Assignment\Developer Task\DevTask\DevTask\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Developer Assignment\Developer Task\DevTask\DevTask\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Developer Assignment\Developer Task\DevTask\DevTask\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Developer Assignment\Developer Task\DevTask\DevTask\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Developer Assignment\Developer Task\DevTask\DevTask\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Developer Assignment\Developer Task\DevTask\DevTask\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Developer Assignment\Developer Task\DevTask\DevTask\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Developer Assignment\Developer Task\DevTask\DevTask\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Developer Assignment\Developer Task\DevTask\DevTask\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Developer Assignment\Developer Task\DevTask\DevTask\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Developer Assignment\Developer Task\DevTask\DevTask\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Developer Assignment\Developer Task\DevTask\DevTask\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Developer Assignment\Developer Task\DevTask\DevTask\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Developer Assignment\Developer Task\DevTask\DevTask\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Developer Assignment\Developer Task\DevTask\DevTask\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Developer Assignment\Developer Task\DevTask\DevTask\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Developer Assignment\Developer Task\DevTask\DevTask\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Developer Assignment\Developer Task\DevTask\DevTask\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Developer Assignment\Developer Task\DevTask\DevTask\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Developer Assignment\Developer Task\DevTask\DevTask\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Developer Assignment\Developer Task\DevTask\DevTask\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Developer Assignment\Developer Task\DevTask\DevTask\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Developer Assignment\Developer Task\DevTask\DevTask\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\Developer Assignment\Developer Task\DevTask\DevTask\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\Developer Assignment\Developer Task\DevTask\DevTask\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\Developer Assignment\Developer Task\DevTask\DevTask\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Data.OleDb.dll
+E:\Developer Assignment\Developer Task\DevTask\DevTask\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Developer Assignment\Developer Task\DevTask\DevTask\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Developer Assignment\Developer Task\DevTask\DevTask\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+E:\Developer Assignment\Developer Task\DevTask\DevTask\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Developer Assignment\Developer Task\DevTask\DevTask\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Developer Assignment\Developer Task\DevTask\DevTask\obj\Debug\netcoreapp3.1\DevTask.csproj.AssemblyReference.cache
+E:\Developer Assignment\Developer Task\DevTask\DevTask\obj\Debug\netcoreapp3.1\DevTask.AssemblyInfoInputs.cache
+E:\Developer Assignment\Developer Task\DevTask\DevTask\obj\Debug\netcoreapp3.1\DevTask.AssemblyInfo.cs
+E:\Developer Assignment\Developer Task\DevTask\DevTask\obj\Debug\netcoreapp3.1\DevTask.csproj.CoreCompileInputs.cache
+E:\Developer Assignment\Developer Task\DevTask\DevTask\obj\Debug\netcoreapp3.1\DevTask.MvcApplicationPartsAssemblyInfo.cache
+E:\Developer Assignment\Developer Task\DevTask\DevTask\obj\Debug\netcoreapp3.1\DevTask.RazorAssemblyInfo.cache
+E:\Developer Assignment\Developer Task\DevTask\DevTask\obj\Debug\netcoreapp3.1\DevTask.RazorAssemblyInfo.cs
+E:\Developer Assignment\Developer Task\DevTask\DevTask\obj\Debug\netcoreapp3.1\staticwebassets\DevTask.StaticWebAssets.Manifest.cache
+E:\Developer Assignment\Developer Task\DevTask\DevTask\obj\Debug\netcoreapp3.1\staticwebassets\DevTask.StaticWebAssets.xml
+E:\Developer Assignment\Developer Task\DevTask\DevTask\obj\Debug\netcoreapp3.1\scopedcss\bundle\DevTask.styles.css
+E:\Developer Assignment\Developer Task\DevTask\DevTask\obj\Debug\netcoreapp3.1\DevTask.TagHelpers.input.cache
+E:\Developer Assignment\Developer Task\DevTask\DevTask\obj\Debug\netcoreapp3.1\DevTask.TagHelpers.output.cache
+E:\Developer Assignment\Developer Task\DevTask\DevTask\obj\Debug\netcoreapp3.1\DevTask.RazorCoreGenerate.cache
+E:\Developer Assignment\Developer Task\DevTask\DevTask\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+E:\Developer Assignment\Developer Task\DevTask\DevTask\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+E:\Developer Assignment\Developer Task\DevTask\DevTask\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+E:\Developer Assignment\Developer Task\DevTask\DevTask\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+E:\Developer Assignment\Developer Task\DevTask\DevTask\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\Developer Assignment\Developer Task\DevTask\DevTask\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+E:\Developer Assignment\Developer Task\DevTask\DevTask\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+E:\Developer Assignment\Developer Task\DevTask\DevTask\obj\Debug\netcoreapp3.1\Razor\Views\Home\Create.cshtml.g.cs
+E:\Developer Assignment\Developer Task\DevTask\DevTask\obj\Debug\netcoreapp3.1\Razor\Views\Home\Delete.cshtml.g.cs
+E:\Developer Assignment\Developer Task\DevTask\DevTask\obj\Debug\netcoreapp3.1\Razor\Views\Home\Details.cshtml.g.cs
+E:\Developer Assignment\Developer Task\DevTask\DevTask\obj\Debug\netcoreapp3.1\Razor\Views\Home\Edit.cshtml.g.cs
+E:\Developer Assignment\Developer Task\DevTask\DevTask\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\Developer Assignment\Developer Task\DevTask\DevTask\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\Developer Assignment\Developer Task\DevTask\DevTask\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\Developer Assignment\Developer Task\DevTask\DevTask\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\Developer Assignment\Developer Task\DevTask\DevTask\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\Developer Assignment\Developer Task\DevTask\DevTask\obj\Debug\netcoreapp3.1\DevTask.RazorTargetAssemblyInfo.cache
+E:\Developer Assignment\Developer Task\DevTask\DevTask\obj\Debug\netcoreapp3.1\DevTask.RazorTargetAssemblyInfo.cs
+E:\Developer Assignment\Developer Task\DevTask\DevTask\obj\Debug\netcoreapp3.1\DevTask.Views.pdb
+E:\Developer Assignment\Developer Task\DevTask\DevTask\obj\Debug\netcoreapp3.1\DevTask.csproj.CopyComplete
+E:\Developer Assignment\Developer Task\DevTask\DevTask\obj\Debug\netcoreapp3.1\DevTask.dll
+E:\Developer Assignment\Developer Task\DevTask\DevTask\obj\Debug\netcoreapp3.1\DevTask.pdb
+E:\Developer Assignment\Developer Task\DevTask\DevTask\obj\Debug\netcoreapp3.1\DevTask.genruntimeconfig.cache
